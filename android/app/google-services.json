@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874975407622",
+    "project_id": "stan-project-7dd6a",
+    "storage_bucket": "stan-project-7dd6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874975407622:android:2eba951d1787459c791d87",
+        "android_client_info": {
+          "package_name": "com.graph.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCalf87mBCgCZWuXl3iHQtVFVlfxJLcuWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
